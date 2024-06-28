@@ -33,9 +33,14 @@ O projeto consiste em um Projeto Java Maven que inclui as seguintes dependência
 ├── pom.xml
 └── README.md
 ```
+
 ## Automação Prática em Selenium
 
 ![Imagem da Automação em Selenium](src/main/resources/imagens/PrintCodigoSelenium.png)
+
+## Dependências Maven Importadas
+
+![Imagem das Dependências Importadas](src/main/resources/imagens/PrintArquivoPom.png)
 
 ## Site Para Teste
 
