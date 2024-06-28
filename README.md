@@ -32,3 +32,11 @@ O projeto consiste em um Projeto Java Maven que inclui as seguintes dependência
 │   │           └── PrintCodigo.png
 ├── pom.xml
 └── README.md
+```
+## Automação Prática em Selenium
+
+![Imagem da Automação em Selenium](src/main/resources/imagens/PrintCodigoSelenium.png)
+
+## Site Para Teste
+
+![Imagem do Site de Teste](src/main/resources/imagens/PrintCampoTreinamento.png)
