@@ -23,9 +23,10 @@ O projeto consiste em um Projeto Java Maven que inclui as seguintes dependência
 |   |   |   └── testeselenium
 |   |   |       └── TesteCadastroCampoTreinamento.java
 │   │   └── resources
-|   |       ├── imagens
-|   |       |   ├── PrintCampoTreinamento.png
-|   |       |   └── PrintCodigo.png
+|   |       ├── midia
+|   |       |   ├── PrintArquivoPom.png
+|   |       |   ├── PrintCodigoSelenium.png
+|   |       |   └── VideoTesteSelenium.png
 |   |       └── sites
 │   │           ├── PrintCampoTreinamento.png
 │   │           └── PrintCodigo.png
