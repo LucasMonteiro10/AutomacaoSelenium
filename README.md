@@ -13,7 +13,6 @@ O projeto consiste em um Projeto Java Maven que inclui as seguintes dependência
 
 - **Selenium**: Para automação de navegadores.
 - **JUnit**: Para framework de testes.
-- **Commons-io**: Para utilidades de I/O.
 
 ## Estrutura do Projeto
 
