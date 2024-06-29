@@ -44,4 +44,4 @@ O projeto consiste em um Projeto Java Maven que inclui as seguintes dependência
 
 ## Site Para Teste
 
-![Imagem do Site de Teste](src/main/resources/imagens/PrintCampoTreinamento.png)
+![Gif do Site de Teste](src/main/resources/imagens/VideoTesteSeleniumGif.gif)
