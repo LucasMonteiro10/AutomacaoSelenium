@@ -36,12 +36,12 @@ O projeto consiste em um Projeto Java Maven que inclui as seguintes dependência
 
 ## Automação Prática em Selenium
 
-![Imagem da Automação em Selenium](src/main/resources/imagens/PrintCodigoSelenium.png)
+![Imagem da Automação em Selenium](src/main/resources/midia/PrintCodigoSelenium.png)
 
 ## Dependências Maven Importadas
 
-![Imagem das Dependências Importadas](src/main/resources/imagens/PrintArquivoPom.png)
+![Imagem das Dependências Importadas](src/main/resources/midia/PrintArquivoPom.png)
 
 ## Site Para Teste
 
-![Gif do Site de Teste](src/main/resources/imagens/VideoTesteSeleniumGif.gif)
+![Gif do Site de Teste](src/main/resources/midia/VideoTesteSeleniumGif.gif)
